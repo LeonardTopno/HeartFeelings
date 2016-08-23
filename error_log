@@ -1,0 +1,12 @@
+[18-Aug-2016 22:03:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/feelings/public_html/index.php:13) in /home/feelings/public_html/index.php on line 228
+[18-Aug-2016 22:05:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/feelings/public_html/index.php:13) in /home/feelings/public_html/index.php on line 228
+[18-Aug-2016 22:05:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/feelings/public_html/index.php:13) in /home/feelings/public_html/index.php on line 228
+[18-Aug-2016 22:06:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/feelings/public_html/index.php:13) in /home/feelings/public_html/index.php on line 228
+[18-Aug-2016 22:08:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/feelings/public_html/index.php:13) in /home/feelings/public_html/index.php on line 228
+[18-Aug-2016 22:08:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/feelings/public_html/index.php:13) in /home/feelings/public_html/index.php on line 228
+[18-Aug-2016 22:10:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/feelings/public_html/index.php:13) in /home/feelings/public_html/index.php on line 276
+[18-Aug-2016 22:28:26 UTC] PHP Notice:  Undefined index: log_path in /home/feelings/public_html/system/core/Log.php on line 118
+[18-Aug-2016 22:28:26 UTC] PHP Notice:  Undefined index: log_path in /home/feelings/public_html/system/core/Log.php on line 118
+[18-Aug-2016 22:28:26 UTC] PHP Warning:  mkdir(): Invalid path in /home/feelings/public_html/system/core/Log.php on line 122
+[18-Aug-2016 22:28:26 UTC] PHP Notice:  Undefined index: log_threshold in /home/feelings/public_html/system/core/Log.php on line 129
+[18-Aug-2016 22:28:26 UTC] PHP Notice:  Undefined index: log_threshold in /home/feelings/public_html/system/core/Log.php on line 133
